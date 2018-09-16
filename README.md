@@ -1,3 +1,3 @@
-# Primer on vertices in three.js 
+# Primer on music and movement in three.js 
 
-A simple primer on manipulating vertices in three.js
+A simple primer on using music in three.js
